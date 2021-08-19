@@ -1,6 +1,6 @@
 # Real_Estate_Melody
-Training project 
-Technologies
+## Training project 
+### Technologies
 -HTML
 -CSS
 -JavaScript
